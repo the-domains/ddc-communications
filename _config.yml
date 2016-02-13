@@ -1,0 +1,14 @@
+layout_spectrum: 0.1568822
+color:
+  saturation: 0.5971282
+  lightness: 0.1428793
+  brandStrength: 0.8418547
+  rhythmicContrast: 0.4068239
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.8893617
+name: DDC Communications
