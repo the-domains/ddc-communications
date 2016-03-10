@@ -4,7 +4,7 @@
         <description><![CDATA[Peak Performance Communication Training]]></description>
         <link>https://thegrid.ai/ddc-communications/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 20:48:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ddc-communications/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Experience the Difference]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/158047492</link>
             <guid isPermaLink="false">94ec33dc-f90e-465c-bb3d-2d749b0f24a6</guid>
             <pubDate>Thu, 10 Mar 2016 17:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Call us </p></article>]]></description>
+            <link>https://thegrid.ai/ddc-communications/contact-us/index.html</link>
+            <guid isPermaLink="false">1a5297fc-e2ec-4022-8bb3-52b2f9a6d4ba</guid>
+            <pubDate>Thu, 10 Mar 2016 20:47:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
