@@ -2,14 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T20:13:33.782Z'
-dateModified: '2016-03-10T20:12:37.924Z'
-title: ''
+datePublished: '2016-03-10T20:28:03.669Z'
+dateModified: '2016-03-10T20:27:40.243Z'
+title: "\_\_Call: +41 77 419 30 82"
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
 published: true
@@ -24,14 +23,18 @@ _type: Blurb
 ---
 **When did you last:**
 
-* **face a crisis situation with potential exposure on newspapers,broadcast and social media?**
-* **feel nervous when facing a camera or talking into a microphone?**
-* **had to endure a hostile phone call from aggrieved customers?**
-* **meet people for the first time for a business meeting?**
+**face a crisis situation with potential exposure on newspapers,broadcast and social media?**
+
+**feel nervous when facing a camera or talking into a microphone?**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc9e6f6e-5bf8-4872-b737-f66bb1a1dce4.jpg)
+
+**had to endure a hostile phone call from aggrieved customers?**
+
+**meet people for the first time for a business meeting?**
 
 Sound communications practice helps you to **take control** of spoken and written communication in an assertive and productive manner. 
 
-Daniel de Carvalho is the **cornerstone trainer** of DDC-Communications. Daniel is an award winning **communicator**, speaker and strategist with over 15 years of work done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz Air. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b95b0b68b09cb35ddc5665816183376b5e2337b8.jpg)
+Daniel de Carvalho is the **cornerstone trainer** of DDC-Communications. Daniel is an award winning **communicator**, speaker and strategist with over 15 years of work done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz Air. 
 
 DDC-Communication acts as curator of associated trainers, carefully chosen for an aggregated experience of **over 55 years** in communicating when launching or rejuvenating brands, when selling, when addressing the media and the public or during crisis situations. 
 
@@ -45,6 +48,8 @@ We offer a number of training packages, including workshops,seminars and bootcam
 We also audit **crisis communications** systems and help implementing **changes** for better media relations and buzzful **messaging**.
 
 Whether you need a comprehensive preparation for **your next media interview**, an **intensive day** training for your communicators or a **full immersion** weekend bootcamp for your customer service and sales staff, please ask us about a tailored work proposal for long-term results.
+
+# Call: +41 77 419 30 82
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75fd0d2e-c064-4834-bba8-9d89c0380a26.jpg)
 
 ****
