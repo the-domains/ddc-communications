@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T13:34:23.849Z'
-dateModified: '2016-03-10T13:34:20.393Z'
-title: DDC Communications for a New Voice
+datePublished: '2016-03-10T16:11:15.760Z'
+dateModified: '2016-03-10T16:10:04.252Z'
+title: A New Voice for your Communication
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: ddc-communications-for-a-new-voice/index.html
-_type: WebPage
+_type: Article
 
 ---
 When did you last:
