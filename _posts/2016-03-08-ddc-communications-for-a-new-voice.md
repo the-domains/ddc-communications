@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T20:36:05.242Z'
-dateModified: '2016-03-10T20:35:49.761Z'
+datePublished: '2016-03-10T20:56:16.876Z'
+dateModified: '2016-03-10T20:56:05.492Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -47,7 +47,9 @@ We offer a number of training packages, including workshops,seminars and bootcam
 
 We also audit **crisis communications** systems and help implementing **changes** for better media relations and buzzful **messaging**.
 
-Whether you need a comprehensive preparation for **your next media interview**, an **intensive day** training for your communicators or a **full immersion** weekend bootcamp for your customer service and sales staff, please ask us about a tailored work proposal for long-term results.
+Whether you need a comprehensive preparation for **your next media interview**, an **intensive day** training for your communicators or a **full immersion** weekend bootcamp for your **customer service** and **sales staff**, please [**ask us**][0] about a tailored **work** proposal for long-term **results**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75fd0d2e-c064-4834-bba8-9d89c0380a26.jpg)
 
 ****
+
+[0]: https://thegrid.ai/ddc-communications/contact-us/
