@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Peak Performance Communication training, Sales training, Crisis Commnications audit & training, Media Response workshops, Interview Techniques workshops, Public Speaking seminars and Ultimate Communicator bootcamp by www.ddc-communications.com'
-datePublished: '2016-03-10T17:12:09.505Z'
-dateModified: '2016-03-10T17:11:23.081Z'
+description: 'DDC-Communications offers Peak Performance Communication training, Sales training, Crisis Communications audit & training, Media Response workshops, Interview Techniques workshops, Public Speaking seminars and the Ultimate Communicator bootcamp'
+datePublished: '2016-03-10T17:16:58.295Z'
+dateModified: '2016-03-10T17:13:02.679Z'
 author:
   - name: Daniel de Carvalho
     url: 'http://vimeo.com/user49715094'
@@ -40,7 +40,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: Peak Performance Communication
+title: Experience the Difference
 sourcePath: _posts/2016-03-10-peak-performance-communication.md
 published: true
 authors: []
