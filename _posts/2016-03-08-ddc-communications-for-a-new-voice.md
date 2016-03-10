@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T16:29:50.943Z'
-dateModified: '2016-03-10T16:27:39.478Z'
+datePublished: '2016-03-10T16:33:32.205Z'
+dateModified: '2016-03-10T16:32:55.943Z'
 title: Training Menu
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -29,7 +29,7 @@ When did you last:
 * had to endure a hostile phone call from aggrieved customers?
 * meet people for the first time for a business meeting?
 
-Sound communications practice helps you to take control of spoken and written communication in an assertive and productive manner. 
+Sound communications practice helps you to take control of spoken and written communication in an assertive and productive manner. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46313521-ad21-4908-892f-267b6a06d11f.jpg)
 
 Daniel de Carvalho is the cornerstone trainer of DDC-Communications. Daniel is an award winning communicator, speaker and strategist with over 15 years of work done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz Air. 
 
@@ -46,14 +46,10 @@ We also audit crisis communications systems and help implementing changes for be
 
 Whether you need a comprehensive preparation for your next media interview, an intensive day training for your communicators or a full immersion
 
-weekend bootcamp for your customer service and sales staff, please ask us about a 
+weekend bootcamp for your customer service and sales staff, please ask us about a tailored work proposal for long-term results.
 
-tailored work
-
-proposal for long-term 
-
-results
-
+  
+  
 .
 
 ****
