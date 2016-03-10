@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/158047492'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Peak Performance Communication training, Sales training, Crisis Commnications audit & training, Media Response workshops, Interview Techniques workshops, Public Speaking seminars and Ultimate Communicator bootcamp by www.ddc-communications.com'
+datePublished: '2016-03-10T16:25:59.974Z'
+dateModified: '2016-03-10T16:25:41.806Z'
 author:
   - name: Daniel de Carvalho
     url: 'http://vimeo.com/user49715094'
     avatar: {}
 related: []
-publisher:
-  name: Vimeo
-  domain: vimeo.com
-  url: 'https://vimeo.com/'
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-keywords: []
-description: 'Peak Performance Communication training, Sales training, Crisis Commnications audit & training, Media Response workshops, Interview Techniques workshops, Public Speaking seminars and Ultimate Communicator bootcamp by www.ddc-communications.com'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/158047492'
     type: ios
@@ -38,16 +41,13 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/158047492'
 title: Peak Performance Communication
-datePublished: '2016-03-10T15:41:15.085Z'
-dateModified: '2016-03-10T15:40:47.652Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
 authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 sourcePath: _posts/2016-03-10-peak-performance-communication.md
 published: true
 _type: VideoObject
