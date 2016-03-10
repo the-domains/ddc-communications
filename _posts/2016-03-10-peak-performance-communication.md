@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/158047492'
 inLanguage: null
 starred: true
 keywords: []
 description: 'DDC-Communications offers Peak Performance Communication training, Sales training, Crisis Communications audit & training, Media Response workshops, Interview Techniques workshops, Public Speaking seminars and the Ultimate Communicator bootcamp'
-datePublished: '2016-03-10T17:19:19.287Z'
-dateModified: '2016-03-10T17:17:06.896Z'
+datePublished: '2016-03-10T17:20:58.152Z'
+dateModified: '2016-03-10T17:20:41.013Z'
 author:
   - name: Daniel de Carvalho
     url: 'http://vimeo.com/user49715094'
@@ -40,7 +41,7 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: Experience the Difference
+title: ''
 sourcePath: _posts/2016-03-10-peak-performance-communication.md
 published: true
 authors: []
@@ -49,7 +50,6 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-url: peak-performance-communication/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
