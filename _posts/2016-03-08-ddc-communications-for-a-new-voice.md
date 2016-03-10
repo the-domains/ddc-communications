@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T16:21:29.544Z'
-dateModified: '2016-03-10T16:20:12.828Z'
+datePublished: '2016-03-10T16:29:50.943Z'
+dateModified: '2016-03-10T16:27:39.478Z'
 title: Training Menu
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: ddc-communications-for-a-new-voice/index.html
-_type: Article
+_type: WebPage
 
 ---
 When did you last:
