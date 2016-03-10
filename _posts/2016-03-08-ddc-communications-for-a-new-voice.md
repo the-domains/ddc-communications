@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T20:08:54.337Z'
-dateModified: '2016-03-10T20:08:40.173Z'
+datePublished: '2016-03-10T20:10:50.117Z'
+dateModified: '2016-03-10T20:09:10.915Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -24,12 +24,11 @@ _type: Blurb
 ---
 **When did you last:**
 
-* face a crisis situation with potential exposure on newspapers,broadcast and social media?
-* feel nervous when facing a camera or talking into a microphone?
-* had to endure a hostile phone call from aggrieved customers?
-* meet people for the first time for a business meeting?
+* **face a crisis situation with potential exposure on newspapers,broadcast and social media?**
+* **feel nervous when facing a camera or talking into a microphone?**
+* **had to endure a hostile phone call from aggrieved customers?**
+* **meet people for the first time for a business meeting?**
 
-  
 Sound communications practice helps you to **take control** of spoken and written communication in an assertive and productive manner. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b95b0b68b09cb35ddc5665816183376b5e2337b8.jpg)
 
 Daniel de Carvalho is the **cornerstone trainer** of DDC-Communications. Daniel is an award winning **communicator**, speaker and strategist with over 15 years of work done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz Air. 
