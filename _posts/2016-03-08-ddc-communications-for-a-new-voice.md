@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T20:56:16.876Z'
-dateModified: '2016-03-10T20:56:05.492Z'
+datePublished: '2016-03-10T21:00:43.297Z'
+dateModified: '2016-03-10T20:56:18.942Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -32,7 +32,7 @@ _type: Blurb
 
 **meet people for the first time for a business meeting?**
 
-> Sound communications practice helps you to **take control** of spoken and written communication in an assertive and productive manner. 
+> _Sound communications practice helps you to **take control** of spoken and written communication in an assertive and productive manner. _
 
 Daniel de Carvalho is the **cornerstone trainer** of DDC-Communications. Daniel is an award winning **communicator**, speaker and strategist with over 15 years of work done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz Air. 
 
