@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T12:07:38.297Z'
-dateModified: '2016-03-10T12:07:14.285Z'
+datePublished: '2016-03-10T13:34:23.849Z'
+dateModified: '2016-03-10T13:34:20.393Z'
 title: DDC Communications for a New Voice
 author: []
+sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
-published: true
 url: ddc-communications-for-a-new-voice/index.html
 _type: WebPage
 
