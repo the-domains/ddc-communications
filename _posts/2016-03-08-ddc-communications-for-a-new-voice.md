@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-10T16:15:01.162Z'
-dateModified: '2016-03-10T16:13:00.515Z'
+datePublished: '2016-03-10T16:20:05.173Z'
+dateModified: '2016-03-10T16:15:07.359Z'
 title: Training Menu
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
