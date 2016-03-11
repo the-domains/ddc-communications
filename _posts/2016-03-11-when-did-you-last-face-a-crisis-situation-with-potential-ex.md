@@ -1,30 +1,30 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last: face a crisis situation with potential exposure on newspapers,broadcast and social media?feel nervous when facing a camera or talking into a microphone?had to endure a hostile phone call from aggrieved customers?meet people for the first time for a business meeting?'
-datePublished: '2016-03-11T14:23:10.907Z'
-dateModified: '2016-03-11T14:22:53.889Z'
+datePublished: '2016-03-11T14:31:01.455Z'
+dateModified: '2016-03-11T14:30:52.046Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-when-did-you-last-face-a-crisis-situation-with-potential-ex.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-when-did-you-last-face-a-crisis-situation-with-potential-ex.md
-published: true
-url: when-did-you-last-face-a-crisis-situation-with-potential-ex/index.html
-_type: Article
+_type: Blurb
 
 ---
-**When did you last:** 
+**When did you last:**
 
-* face a crisis situation with potential exposure on newspapers,broadcast and social media?
-* feel nervous when facing a camera or talking into a microphone?
-* had to endure a hostile phone call from aggrieved customers?
+* face a **crisis** situation with potential exposure on newspapers,broadcast and social media?
+* feel nervous when **facing a camera** or talking into a microphone?
+* had to endure a **hostile** phone call from aggrieved customers?
 * meet people for the first time for a business meeting?
