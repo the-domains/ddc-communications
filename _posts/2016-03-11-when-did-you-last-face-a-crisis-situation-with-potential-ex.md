@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-11T14:36:32.637Z'
-dateModified: '2016-03-11T14:35:12.598Z'
+datePublished: '2016-03-11T16:28:32.632Z'
+dateModified: '2016-03-11T16:27:36.950Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-when-did-you-last-face-a-crisis-situation-with-potential-ex.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 **When did you last:**
 
-* face a **crisis** situation with potential exposure on newspapers,broadcast and social media?
+* face a **crisis** situation with potential exposure on newspapers, broadcast and social media?
 * feel nervous when **facing a camera** or talking into a microphone?
 * had to endure a **hostile** phone call from aggrieved customers?
 * meet people for the first time for a **business** meeting?
