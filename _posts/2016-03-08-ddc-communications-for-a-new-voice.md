@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-11T06:52:58.931Z'
-dateModified: '2016-03-11T06:52:24.409Z'
+datePublished: '2016-03-11T06:55:09.764Z'
+dateModified: '2016-03-11T06:54:50.518Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -24,14 +24,14 @@ _type: Blurb
 ---
 **When did you last:**
 
-**face a crisis situation with potential exposure on newspapers,broadcast and social media?**
+* face a crisis situation with potential exposure on newspapers,broadcast and social media?
 
-**feel nervous when facing a camera or talking into a microphone?**
+* feel nervous when facing a camera or talking into a microphone?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc9e6f6e-5bf8-4872-b737-f66bb1a1dce4.jpg)
 
-**had to endure a hostile phone call from aggrieved customers?**
+* had to endure a hostile phone call from aggrieved customers?
 
-**meet people for the first time for a business meeting?**
+* meet people for the first time for a business meeting?
 
 > _Sound communications practice helps you to **take control** of spoken and written communication in an assertive and productive manner. _
 
@@ -39,7 +39,7 @@ Daniel de Carvalho is the **cornerstone trainer** of DDC-Communications. Daniel 
 
 DDC-Communication acts as curator of associated trainers, carefully chosen for an aggregated experience of **over 55 years** in communicating when launching or rejuvenating brands, when selling, when addressing the media and the public or during crisis situations. 
 
-We offer a number of training packages, including workshops,seminars and bootcamps to
+We offer a number of training packages, including workshops, seminars and bootcamps to
 
 * prepare**senior management** for media interviews
 
