@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'When did you last:'
-datePublished: '2016-03-11T16:28:32.632Z'
-dateModified: '2016-03-11T16:27:36.950Z'
+datePublished: '2016-03-11T16:37:59.264Z'
+dateModified: '2016-03-11T16:37:43.012Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-when-did-you-last-face-a-crisis-situation-with-potential-ex.md
