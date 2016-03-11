@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: 'When did you last:'
-datePublished: '2016-03-11T06:55:09.764Z'
-dateModified: '2016-03-11T06:54:50.518Z'
+description: ''
+datePublished: '2016-03-11T06:56:26.216Z'
+dateModified: '2016-03-11T06:56:21.198Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-ddc-communications-for-a-new-voice.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-**When did you last:**
+## When did you last:
 
 * face a crisis situation with potential exposure on newspapers,broadcast and social media?
 
