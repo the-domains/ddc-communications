@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T10:07:38.391Z'
-dateModified: '2016-03-12T10:07:20.972Z'
+datePublished: '2016-03-12T10:11:36.288Z'
+dateModified: '2016-03-12T10:11:02.975Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-03-11-contact-us.md
@@ -24,4 +24,4 @@ _type: WebPage
 ---
 ## +41 77 419 30 82
 
-contact@ddc-communication.com
+## contact (at) ddc-communication.com
