@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T11:33:50.154Z'
-dateModified: '2016-03-12T11:33:22.185Z'
+datePublished: '2016-03-12T11:35:59.479Z'
+dateModified: '2016-03-12T11:33:55.534Z'
 title: ''
 author: []
 authors: []
@@ -29,4 +29,4 @@ We offer a number of training packages, including **workshops**, **seminars** an
 * bring your s**ales force**, **call centre **team or **customer service **professionals to the next level. 
 * **stimulate **better internal communications within physical and virtual teams.
 
-We also audit **crisis communications** systems and help implementing **changes** for better media relations and buzzful **messaging**.
+_We also audit **crisis communications** systems and help implementing **changes** for better media relations and buzzful **messaging**._
