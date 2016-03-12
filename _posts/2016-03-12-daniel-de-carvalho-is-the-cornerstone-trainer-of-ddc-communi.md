@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Daniel de Carvalho is the cornerstone trainer of DDC-Communications. Daniel is an award winning communicator, speaker and strategist with over 15 years of work done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz Air. '
-datePublished: '2016-03-12T09:39:33.767Z'
-dateModified: '2016-03-12T09:34:14.373Z'
+datePublished: '2016-03-12T14:30:47.480Z'
+dateModified: '2016-03-12T10:25:55.247Z'
 title: ''
 author: []
 authors: []
