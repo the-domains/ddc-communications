@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T18:18:01.334Z'
-dateModified: '2016-03-12T18:17:37.363Z'
+datePublished: '2016-03-12T19:03:23.591Z'
+dateModified: '2016-03-12T18:20:05.969Z'
 title: ''
 author: []
 authors: []
@@ -24,11 +24,11 @@ _type: Blurb
 ---
 We offer a number of training packages, including **workshops**, **seminars** and **bootcamps **that
 
-- prepare **senior management **for **media interviews**
+**-** prepare **senior management **for **media interviews**
 
-- help **communications practitioners **assimilate **new methodologies **to sustain and further develop best practice
+**-** help **communications practitioners **assimilate **new methodologies **to sustain and further develop best practice
 
-- bring your s**ales force**, **call centre **team or **customer service **professionals to the next level
+**-** bring your s**ales force**, **call centre **team or **customer service **professionals to the next level
 
 **-****stimulate **better internal communications within physical and virtual teams.  
 
