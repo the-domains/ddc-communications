@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'We offer a number of training packages, including workshops,seminars and bootcamps to'
-datePublished: '2016-03-12T11:30:44.678Z'
-dateModified: '2016-03-12T11:30:41.177Z'
+description: ''
+datePublished: '2016-03-12T11:33:50.154Z'
+dateModified: '2016-03-12T11:33:22.185Z'
 title: ''
 author: []
 authors: []
