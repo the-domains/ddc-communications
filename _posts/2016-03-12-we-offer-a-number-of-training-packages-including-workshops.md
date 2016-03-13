@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-12T19:03:23.591Z'
-dateModified: '2016-03-12T18:20:05.969Z'
+description: "- prepare\_senior management\_for\_media interviews"
+datePublished: '2016-03-13T17:33:41.659Z'
+dateModified: '2016-03-13T17:33:06.234Z'
 title: ''
 author: []
 authors: []
@@ -22,6 +22,8 @@ published: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/397b2808-9f91-47b3-8abb-0b8c67473c93.jpg)
+
 We offer a number of training packages, including **workshops**, **seminars** and **bootcamps **that
 
 **-** prepare **senior management **for **media interviews**
