@@ -6,19 +6,19 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "- prepare\_senior management\_for\_media interviews"
-datePublished: '2016-03-13T17:33:41.659Z'
-dateModified: '2016-03-13T17:33:06.234Z'
+description: "We offer a number of training packages, including\_workshops,\_seminars\_and\_bootcamps that"
+datePublished: '2016-03-13T17:36:46.906Z'
+dateModified: '2016-03-13T17:33:49.898Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-we-offer-a-number-of-training-packages-including-workshops.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-we-offer-a-number-of-training-packages-including-workshops.md
-published: true
 _type: Blurb
 
 ---
