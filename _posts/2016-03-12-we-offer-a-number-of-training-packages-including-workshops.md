@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We offer a number of training packages, including\_workshops,\_seminars\_and\_bootcamps that"
-datePublished: '2016-03-22T20:50:26.361Z'
-dateModified: '2016-03-13T17:45:55.709Z'
+datePublished: '2016-03-23T08:07:22.341Z'
+dateModified: '2016-03-23T08:07:04.097Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-we-offer-a-number-of-training-packages-including-workshops.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fe90fe0-9d34-4647-8f36-8028022af8ae.jpg)
 
-We offer a number of training packages, including **workshops**, **seminars** and **bootcamps **that
+We offer a number of training packages, including **workshops**, **seminars** and **boot camps **that
 
 **-** prepare **senior management **for **media interviews**
 
