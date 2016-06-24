@@ -10,15 +10,15 @@ description: >-
   an award winning communicator, speaker and strategist with 20 years of work
   done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz
   Air. 
-datePublished: '2016-06-17T12:10:42.359Z'
-dateModified: '2016-06-17T11:58:57.476Z'
+datePublished: '2016-06-24T07:59:29.395Z'
+dateModified: '2016-06-24T07:44:19.591Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-03-12-daniel-de-carvalho-is-the-cornerstone-trainer-of-ddc-communi.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-03-12-daniel-de-carvalho-is-the-cornerstone-trainer-of-ddc-communi.md
 _type: Blurb
 
 ---
