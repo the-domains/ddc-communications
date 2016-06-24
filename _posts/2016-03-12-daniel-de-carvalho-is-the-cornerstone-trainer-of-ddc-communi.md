@@ -10,8 +10,8 @@ description: >-
   an award winning communicator, speaker and strategist with 20 years of work
   done for the Portuguese Cable TV, Bertelsman Media Group, GT, Ryanair and Wizz
   Air. 
-datePublished: '2016-06-24T07:59:29.395Z'
-dateModified: '2016-06-24T07:44:19.591Z'
+datePublished: '2016-06-24T08:41:05.405Z'
+dateModified: '2016-06-24T08:40:19.738Z'
 title: ''
 author: []
 sourcePath: >-
