@@ -8,8 +8,8 @@ keywords: []
 description: >-
   We offer a number of training packages, including workshops, seminars and boot
   camps that
-datePublished: '2016-06-24T08:13:28.215Z'
-dateModified: '2016-06-24T08:13:03.596Z'
+datePublished: '2016-06-24T08:38:52.212Z'
+dateModified: '2016-06-24T08:13:34.164Z'
 title: ''
 author: []
 sourcePath: >-
