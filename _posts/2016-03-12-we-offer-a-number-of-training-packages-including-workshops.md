@@ -6,13 +6,13 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "We offer a number of training packages, including\_workshops,\_seminars\_and\_bootcamps that"
-datePublished: '2016-03-23T08:07:22.341Z'
-dateModified: '2016-03-23T08:07:04.097Z'
+description: "We offer a number of training packages, including\_workshops,\_seminars\_and\_boot camps that"
+datePublished: '2016-06-24T07:41:40.290Z'
+dateModified: '2016-03-23T08:14:57.493Z'
 title: ''
 author: []
-sourcePath: _posts/2016-03-12-we-offer-a-number-of-training-packages-including-workshops.md
-published: true
+sourcePath: >-
+  _posts/2016-03-12-we-offer-a-number-of-training-packages-including-workshops.md
 authors: []
 publisher:
   name: null
@@ -30,7 +30,7 @@ We offer a number of training packages, including **workshops**, **seminars** an
 
 **-** help **communications practitioners **assimilate **new methodologies **to sustain and further develop best practice
 
-**-** bring your s**ales force**, **call centre **team or **customer service **professionals to the next level
+**-** bring your **sales force**, **call centre **team or **customer service **professionals to the next level
 
 **-****stimulate **better internal communications within physical and virtual teams.  
 
