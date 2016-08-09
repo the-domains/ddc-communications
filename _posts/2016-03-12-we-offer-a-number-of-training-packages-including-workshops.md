@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-14T17:19:26.857Z'
+datePublished: '2016-08-09T13:04:47.741Z'
 sourcePath: >-
   _posts/2016-03-12-we-offer-a-number-of-training-packages-including-workshops.md
 inFeed: true
@@ -8,9 +8,10 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-14T17:12:42.507Z'
+via: {}
+dateModified: '2016-08-09T13:04:46.006Z'
 title: ''
-publisher: null
+publisher: {}
 description: >-
   We offer a number of training packages, including workshops, seminars and boot
   camps that
