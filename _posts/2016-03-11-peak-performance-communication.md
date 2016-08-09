@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-09T13:16:39.245Z'
+datePublished: '2016-08-09T13:28:51.348Z'
 sourcePath: _posts/2016-03-11-peak-performance-communication.md
 inFeed: true
-isBasedOnUrl: 'https://vimeo.com/158047492'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
@@ -12,7 +11,7 @@ author:
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-09T13:16:37.437Z'
+dateModified: '2016-08-09T13:28:50.800Z'
 title: Peak Performance Communication
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/158047492'
@@ -50,6 +49,7 @@ description: >-
 inLanguage: null
 inNav: false
 starred: true
+url: peak-performance-communication/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
