@@ -4,7 +4,7 @@
         <description><![CDATA[Peak Performance Communication Training]]></description>
         <link>http://www.peakperformancecommunication.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 13:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 13:19:34 GMT</lastBuildDate>
         <atom:link href="http://www.peakperformancecommunication.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Peak Performance Communication]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/158047492</link>
             <guid isPermaLink="false">57c26d47-674e-46b0-a106-d59384d09164</guid>
             <pubDate>Tue, 09 Aug 2016 13:16:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4acc37232343fda8081087949a1690f/gradientmap.jpg?color1=%231A1A1A&color2=%23333333&color3=%23666666&color4=%23FD6881&color5=%23FECDD5&height=814&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb65f52dcf34d3216c2ad76b0440a6b9ef3c6f574.jpg&srgb=True&stop1=0.1&stop2=0.3&stop3=0.5&stop4=0.7&stop5=0.9&width=1444">]]></description>
+            <link>http://www.ddc-communications.com/</link>
+            <guid isPermaLink="false">f8d98f63-ccc6-49e7-8e38-c96433b8d370</guid>
+            <pubDate>Tue, 09 Aug 2016 13:19:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
