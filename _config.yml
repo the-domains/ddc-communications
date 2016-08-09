@@ -28,6 +28,9 @@ navigation:
   - name: ' Contact Us'
     id: 8a2bf6be-5c8a-44d8-b407-5e8ab753a343
     type: content
+  - name: Contact Us
+    url: 'http://www.peakperformancecommunication.com/contact-us/'
+    type: external
 favicon: null
 title: Peak Performance Communication Training
 purpose: []
