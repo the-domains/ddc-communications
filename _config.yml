@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Watch our video
+    id: 57c26d47-674e-46b0-a106-d59384d09164
+    type: content
 favicon: null
 title: Peak Performance Communication Training
 purpose: []
