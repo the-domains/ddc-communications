@@ -1,17 +1,23 @@
 ---
-datePublished: '2016-08-09T14:24:07.584Z'
-sourcePath: _posts/2016-03-11-peak-performance-communication.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: >-
+  We offer Peak Performance Communication training, Sales training, Crisis
+  Communications audit & training, Media Response workshops, Interview
+  Techniques workshops, Public Speaking seminars and the Ultimate Communicator
+  bootcamp
+datePublished: '2016-08-09T15:07:40.546Z'
+dateModified: '2016-08-09T15:06:51.159Z'
+sourcePath: _posts/2016-03-11-peak-performance-communication.md
 related: []
 author:
   - name: www.ddc-communications.com
     url: ''
     avatar: {}
 via: {}
-dateModified: '2016-08-09T14:24:06.884Z'
 title: Peak Performance Communication
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/158047492'
@@ -40,14 +46,12 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-publisher: {}
-description: >-
-  We offer Peak Performance Communication training, Sales training, Crisis
-  Communications audit & training, Media Response workshops, Interview
-  Techniques workshops, Public Speaking seminars and the Ultimate Communicator
-  bootcamp
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: peak-performance-communication/index.html
 _context: 'http://schema.org'
