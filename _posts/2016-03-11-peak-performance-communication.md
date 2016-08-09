@@ -9,8 +9,8 @@ description: >-
   Communications audit & training, Media Response workshops, Interview
   Techniques workshops, Public Speaking seminars and the Ultimate Communicator
   bootcamp
-datePublished: '2016-08-09T15:07:40.546Z'
-dateModified: '2016-08-09T15:06:51.159Z'
+datePublished: '2016-08-09T15:09:24.204Z'
+dateModified: '2016-08-09T15:07:48.863Z'
 sourcePath: _posts/2016-03-11-peak-performance-communication.md
 related: []
 author:
@@ -48,9 +48,9 @@ app_links:
     id: com.vimeo.android.videoapp
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: true
 url: peak-performance-communication/index.html
