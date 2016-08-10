@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T21:00:51.694Z'
+datePublished: '2016-08-10T21:16:02.481Z'
 sourcePath: _posts/2016-03-11-peak-performance-communication.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-10T21:00:49.106Z'
+dateModified: '2016-08-10T21:16:01.228Z'
 title: Peak Performance Communication
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/158047492'
