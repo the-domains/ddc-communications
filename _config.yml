@@ -1,21 +1,20 @@
-typography_spectrum: 1
-style: the-composer
+typography_spectrum: 0.4459887787234038
 color:
   brandColors:
-    - '#cc0325'
-    - '#9d9d9d'
-    - '#616161'
-    - '#ffffff'
-    - '#cdcdcd'
-  brandStrength: 0.5625
-  lightness: 0.8125
-  saturation: 0.75
-  rhythmicContrast: 0.5
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  brandStrength: 0.39739402779377997
+  lightness: 0.8896517646498978
+  saturation: 0.4706476894207299
+  rhythmicContrast: 0.9216427651699632
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.09372
+layout_spectrum: 0.4466139229480177
 analytics:
   google: null
   facebook: null
@@ -25,13 +24,11 @@ cta:
   domain: null
   bucket: null
   version: null
+style: the-composer
 navigation:
   - name: Contact Us
     id: 8a2bf6be-5c8a-44d8-b407-5e8ab753a343
     type: content
-  - name: Video
-    url: 'https://vimeo.com/158047492'
-    type: external
 favicon: null
 title: Peak Performance Communication Training
 purpose: []
