@@ -1,25 +1,4 @@
-name: 'Peak Performance Communication '
-favicon: null
-layout_spectrum: 0.4759517970960587
 typography_spectrum: 0.17581443046219647
-style: the-composer
-navigation:
-  - name: Contact Us
-    id: 8a2bf6be-5c8a-44d8-b407-5e8ab753a343
-    type: content
-title: Peak Performance Communication Training
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#595241'
@@ -31,4 +10,24 @@ color:
   lightness: 1
   saturation: 0.4706476894207299
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4759517970960587
+analytics:
+  google: UA-83378128-1
+  facebook: null
+  twitter: null
+name: 'Peak Performance Communication '
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Contact Us
+    id: 8a2bf6be-5c8a-44d8-b407-5e8ab753a343
+    type: content
+favicon: null
+title: Peak Performance Communication Training
 purpose: []
